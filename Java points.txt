@@ -1,3 +1,4 @@
 need to transfer the java code here
 by mondey 
 add data structure later
+algorism after wap
